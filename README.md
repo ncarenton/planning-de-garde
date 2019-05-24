@@ -1,1 +1,2 @@
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/d4c6be86243248c284e6327692f677a0)](https://app.codacy.com/app/ncarenton/planning-de-garde?utm_source=github.com&utm_medium=referral&utm_content=ncarenton/planning-de-garde&utm_campaign=Badge_Grade_Dashboard)
 [![Build Status](https://travis-ci.com/ncarenton/planning-de-garde.svg?branch=master)](https://travis-ci.com/ncarenton/planning-de-garde)
